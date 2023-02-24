@@ -1,5 +1,5 @@
 # little-dragon
-This is a game where we try to save a little dragon from a pack of bats.
-This game is developed by using LibGDX.
+This game is where the user tries to save the main character from enemies. 
+This game is written in Java and developed using LibGDX.
 
-Highscore feature will be added soon.
+The highscore feature will be added soon.
